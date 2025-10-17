@@ -6,7 +6,7 @@ I’m Jaime Ramos, a passionate software engineer dedicated to building impactfu
   - a social network for university students and all in one travel app
   - All-in-One Travel App: Providing all the information and tools you need for traveling.
 - 🌱 Currently learning:
-   - Python
+   - Golang
    - Software Architecture
    - Cloud Technologies
 - 👯 I’m looking to collaborate in meaningul projects
